@@ -1,0 +1,13 @@
+{
+  "name": "drupal-packages/jquery_ui_checkboxradio",
+  "type": "drupal-module",
+  "description": "Jquery UI: checkbox",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/drupal-packages/jquery_ui_checkboxradio",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/drupal-packages/jquery_ui_checkboxradio/issues",
+    "source": "https://github.com/drupal-packages/jquery_ui_checkboxradio"
+  }
+}
